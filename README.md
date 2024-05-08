@@ -1,13 +1,5 @@
 # Getting Started with Create React App
 
-# Production Link
-
-Open https://se2-frontend-one.vercel.app/ to see our product
-
-## Account for purchase product
-User email: hieu123@gmail.com
-Password: 123456
-
 ## Available Scripts
 
 In the project directory, you can run:
